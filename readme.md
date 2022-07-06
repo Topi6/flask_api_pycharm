@@ -1,0 +1,3 @@
+# Simple Flask API project
+
+Just getting my feet wet...
